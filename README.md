@@ -9,6 +9,8 @@
 
 <h3 align="center">🛠Tech Stacks</h3>
 
+What I've studying and used at least once
+
 <p align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
