@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jun3047
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Jun
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wook_10000/?hl=ko) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hanmw110@naver.com) 
 
-<!---
-jun3047/jun3047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Inha Badge](인하대.PNG)](https://learn.inha.ac.kr/) 
+
+:school: _Artifitial intelligence Engineering at Inha University_
