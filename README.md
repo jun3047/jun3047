@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=jun3047&&style=flat-square" align="right" />
+
 ## Hi There 👋
 
 ### I'm Jun
@@ -5,7 +7,6 @@
 📧 Contact Email: jungjun3047@naver.com <br><br>
 💻 Tech Blog: https://jun3047.github.io <br><br>
 🌈 Daily Blog: https://blog.naver.com/jungjun3047 <br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjun3047%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 
