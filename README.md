@@ -1,4 +1,6 @@
-## Hi I'm Jun 👋
+## Hi There 👋
+
+### I'm Jun
 
 📧 Contact Email: jungjun3047@naver.com <br><br>
 💻 Tech Blog: https://jun3047.github.io <br><br>
@@ -7,7 +9,7 @@
 
 ---
 
-<h3 align="center">🛠Tech Stacks</h3>
+<h3 align="center">💻 Tech Stacks</h3>
 
 
 <p align="center">
@@ -22,6 +24,6 @@
 </p>
 
 
-<h3 align="center">⌕Git Status</h3>
+<h3 align="center">🛠 Git Status</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
