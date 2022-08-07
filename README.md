@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+</p>
 
 
-  <h3 align="center">🛠Git Status</h3>
+<h3 align="center">⌕Git Status</h3>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun3047)](https://github.com/jun3047/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun3047)](https://github.com/jun3047/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&layout=demo)
   
-</p>
