@@ -1,4 +1,4 @@
-#### Hi I'm Jun 👋
+## Hi I'm Jun 👋
 
 📧 Contact Email: jungjun3047@naver.com <br><br>
 💻 Tech Blog: https://jun3047.github.io <br><br>
