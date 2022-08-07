@@ -4,10 +4,6 @@
 
 ### Hello I'm Jun!!
 
-📧 Contact Email: jungjun3047@naver.com <br><br>
-💻 Tech Blog: https://jun3047.github.io <br><br>
-🌈 Daily Blog: https://blog.naver.com/jungjun3047 <br><br>
-
 <a href="https://jun3047.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/github_blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="mailto:jungjun3047@naver.com">
