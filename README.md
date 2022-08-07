@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">🛠Tech Stacks</h3>
+<h3 align="center">🛠 Tech Stacks</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
