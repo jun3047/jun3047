@@ -16,9 +16,9 @@
 </a>
 
 ### Hello I'm Jun!!
-
+<div>
+<div align="rigth">
 <h3 align="center">💻 Tech Stacks</h3>
-
 
 <p align="center">
   What I've studying and used at least once <br><br>
@@ -30,11 +30,13 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
-
-
+</div>
+<div align="left">
 <h3 align="center">🛠 Git Status</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
+</div>
+</div>
 </div>
 
