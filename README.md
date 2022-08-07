@@ -21,7 +21,7 @@
 </p>
 
 
-<h3 align="center">⌕Git Status</h3>
+<h3 align="center">📊 Git Status</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun3047)](https://github.com/jun3047/github-readme-stats)
 
