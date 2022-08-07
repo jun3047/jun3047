@@ -24,5 +24,4 @@
 
 <h3 align="center">⌕Git Status</h3>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun3047)](https://github.com/jun3047/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&layout=demo)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
