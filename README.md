@@ -30,4 +30,4 @@
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
-  <img src="github-readme-stats.vercel.app/api/top-langs/?username=jun3047&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&langs_count=8">
