@@ -29,5 +29,7 @@
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true" align="center">
+<div text-align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
+</div>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&langs_count=8"> -->
