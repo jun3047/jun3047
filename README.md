@@ -30,4 +30,5 @@
 </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&layout=compact)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jun3047=willianrod)](https://github.com/anuraghazra/github-readme-stats)
