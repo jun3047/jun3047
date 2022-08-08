@@ -35,3 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true">
 </div>
  -->
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&layout=compact)](https://github.com/jun3047/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jun3047&show_icons=true&theme=radical)
