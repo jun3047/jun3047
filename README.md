@@ -19,7 +19,7 @@
 <h3 align="center">💻 Tech Stacks</h3>
 
 <p align="center">
-  What I've studying and used at least once <br><br>
+  What I've studying <br><br>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">  <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"> 
