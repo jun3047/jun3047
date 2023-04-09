@@ -38,6 +38,6 @@
 ### 안녕하세요 오늘도 게으름을 잡으러 오셨나요?
 
 근데 대충 개발하고 그냥 떄우는 건지 의심스럽지 않나요? <br>
-<a href="https://blog.naver.com/jungjun3047">이 블로그<a/>의 개발 게시판에서 뭘 개발했는데, 할 계획인지 확인할 수 있습니다!
+<a href="https://blog.naver.com/jungjun3047">이 블로그<a/>의 개발 게시판에서 뭘 개발했는지, 앞으로 할 계획인지 확인할 수 있습니다!
 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun3047&langs_count=8"> -->
