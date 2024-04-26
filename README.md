@@ -2,7 +2,7 @@
 
 ## Hi There 👋 
 
-<a href="https://jun3047.github.io/" target="_blank">
+<a href="https://velog.io/@jun3047" target="_blank">
 <img src=https://img.shields.io/badge/github_blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="mailto:jungjun3047@naver.com">
 <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-bottom: 5px;"/>
