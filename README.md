@@ -2,11 +2,11 @@
 
 ## Hi There 👋 
 
-<a href="https://velog.io/@jun3047" target="_blank">
+<!--  <a href="https://velog.io/@jun3047" target="_blank">
 <img src=https://img.shields.io/badge/github_blog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 <a href="mailto:jungjun3047@naver.com">
 <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
+</a> -->
 <!-- <a href="https://www.instagram.com/joon_dev_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" /> -->
 </a>
